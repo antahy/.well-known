@@ -1,2 +1,2 @@
 # .well-known
-this is so i can use "antahy.github.io" as my bluesky handle
+this repo exists for verifying "antahy.github.io" as mine
